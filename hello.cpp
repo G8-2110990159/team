@@ -43,4 +43,19 @@ int main()
 void stu::putdata()
 {
 }
+
+
+
+
+
+
 //just trying to practice branch statment
+
+
+
+
+
+
+
+
+modifying feature,testing the feature locally and found clean, saving it for use 
